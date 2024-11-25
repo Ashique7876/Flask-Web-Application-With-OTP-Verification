@@ -77,7 +77,7 @@ Click the logout button to end the session.
 ## Screen Short
 
 ![Register Page](https://github.com/user-attachments/assets/b2bf3a2f-aeb0-495a-9317-16453597ff3a)
-![Login Page](https://github.com/user-attachments/assets/3fea24a3-4a7d-4fa9-80e8-5fa2085d8786)
+![Verify OTP](https://github.com/user-attachments/assets/7e7c885b-c10d-4c9e-a8c4-a4814c70e337)
 ![Login Page](https://github.com/user-attachments/assets/6f1e1416-5fb3-449f-86d2-632dfa0b58e7)
 ![Home Page](https://github.com/user-attachments/assets/f9ecd341-6bce-4612-ac6c-d88a0f284348)
 
