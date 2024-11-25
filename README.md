@@ -28,6 +28,7 @@ SQLite : Lightweight database for storing user and OTP data.
 ## Installation and Usage Instructions
 ### Prerequisites
 1.Python 3.x installed on your machine.
+
 2.Installed pip for managing Python dependencies.
 
 ## Installation Steps
